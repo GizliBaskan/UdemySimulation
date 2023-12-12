@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šäåó8¡Ç¾÷Å1
+|
+java:S1450"ZRemove the "databaseDao" field and declare it as a local variable in the relevant methods.(ÿ†á©ÿÿÿÿÿ8òíñ€Æ1
+Q
+java:S1068"/Remove this unused "databaseDao" private field.(ÿ†á©ÿÿÿÿÿ8ôíñ€Æ1
